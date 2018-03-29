@@ -1,0 +1,28 @@
+# OSX
+.DS_Store
+
+# App
+.env
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+
+# IDE
+.idea
+logs/
+
+# Compiled output
+dist/
+coverage/
+docs/
+
+tests/tmp
+
+# Uploads
+public/uploads/
+public/statements/
+private/
+
+yarn-error.log
